@@ -1,5 +1,7 @@
 # phenomic-cms
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sugizo/phenomic-cms.svg)](https://greenkeeper.io/)
+
 This is an experimental project based on Phenomic a react.js Static Site Generator.
 The project integrates the Netlify-CMS with Phenomic.
 
